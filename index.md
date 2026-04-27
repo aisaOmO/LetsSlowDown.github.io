@@ -13,16 +13,17 @@ layout: default
 ## .·:*¨ ¨*:·.
 ## Overview
 
-Students took a survey, and then we collected the data and analyzed it. We wanted to explore whether or not students felt too rushed while taking the comp110 course or felt that it was just the right speed.
+    Students took a survey, and then we collected the data and analyzed it. We wanted to explore whether or not students felt too rushed while taking the comp110 course or felt that it was just the right speed.
 
 ## .·:*¨ ¨*:·.
 ## Data
 
-We observed the data to determine whether or not comp110 should slow down its pace to help students excel in the class.
+    We observed the data to determine whether or not comp110 should slow down its pace to help students excel in the class.
 
 ## .·:*¨ ¨*:·.
 ## Analysis 
 
+    After analyzing we determined that the students were lost and had a harder time understanding. Only a handful of the students felt that they were fully understanding the material at the course's pace. 
 
 ## .·:*¨ ¨*:·.
 ## In Conclusion! 
